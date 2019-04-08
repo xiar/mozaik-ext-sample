@@ -1,0 +1,34 @@
+{
+  "name": "mozaik-ext-sample",
+  "version": "1.0.0",
+  "description": "",
+  "_from": "mozaik-ext-sample@1.0.0",
+  "_id": "mozaik-ext-sample@1.0.0",
+  "_location": "/mozaik-ext-sample",
+  "main": "./src/components/index.js",
+  "scripts": {},
+  "dependencies": {
+    "babel-core": "6.7.2",
+    "babel-preset-es2015": "6.6.0",
+    "babel-preset-react": "6.5.0",
+    "babelify": "7.2.0",
+    "classnames": "2.2.3",
+    "d3": "^3.5.5",
+    "moment": "2.12.0",
+    "moment-timezone": "0.5.3"
+  },
+  "engines": {
+    "node": "0.12.x",
+    "npm": ">=3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiaowenJiang/mozaik-ext-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XiaowenJiang/mozaik-ext-sample/issues"
+  },
+  "homepage": "https://github.com/XiaowenJiang/mozaik-ext-sample#readme"
+}
