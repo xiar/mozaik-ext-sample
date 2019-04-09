@@ -37,7 +37,7 @@ class Sample extends Component {
     }
 }
 
-Sample.DisplayName = "Sample";
+Sample.DisplayName = 'Sample';
 
 // apply the mixins on the component
 reactMixin(Sample.prototype, ListenerMixin);
